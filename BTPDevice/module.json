@@ -1,11 +1,11 @@
 {
   "id": "{4B02618F-358B-4D5F-8018-52250CD05F11}",
-  "name": "BTPDevice_PI",
+  "name": "BTPDevice",
   "type": 3,
-  "vendor": "Bluetooth_PI",
+  "vendor": "Bluetooth",
   "aliases": [ "Presence Device PI" ],
   "parentRequirements": [],
   "childRequirements": [],
   "implemented": [],
-  "prefix": "BTP_PI"
+  "prefix": "BTP"
 }
